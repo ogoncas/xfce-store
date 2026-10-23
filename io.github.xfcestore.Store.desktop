@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Software Store
+Name[pt_BR]=Loja de Aplicativos
+Comment=Install apps from Flathub and the Debian repositories
+Comment[pt_BR]=Instale apps do Flathub e dos repositórios Debian
+Exec=xfce-store
+Icon=system-software-install
+Terminal=false
+StartupNotify=true
+StartupWMClass=xfce-store
+Categories=System;PackageManager;GTK;
+Keywords=apps;flatpak;flathub;apt;store;loja;instalar;
