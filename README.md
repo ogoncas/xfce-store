@@ -1,4 +1,4 @@
-# Xfce-Store
+# Xfce-Store (Desenvolvido com auxílio de IA!)
 
 Documentação do projeto Loja de Aplicativos para XFCE (C + GTK3), versão 1.2
 
